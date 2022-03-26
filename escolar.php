@@ -43,10 +43,10 @@ $re=mysql_query("select * from productos where id='escolar'")or die(mysql_error(
 			</div>
 			<nav id="nav">
 				<ul>
-					<a href="index.php"><li>INICIO</li></a>
-					<a href="escolar.php"><li>ESCOLAR</li></a>
-					<a href="oficina.php"><li>OFICINA</li></a>
-					<a href="pedido.php"><li>PEDIDO</li></a>
+					<a href="index.html"><li>INICIO</li></a>
+					<a href="escolar.html"><li>ESCOLAR</li></a>
+					<a href="oficina.html"><li>OFICINA</li></a>
+					<a href="pedido.html"><li>PEDIDO</li></a>
 				</ul>
 			</nav>
 		</header>
@@ -82,10 +82,7 @@ $re=mysql_query("select * from productos where id='escolar'")or die(mysql_error(
 			<div id="team">
 				<p>Papeleria La Ideal, Ubicada entre Ocampo y Gonzales Treviño</p>
 				<p>
-					Yadira Amairany Escobedo Soriano <br>
-					Valeria Berenice Navarro Guevara <br>
-					Alejandro Reyes Cerecero <br>
-					Cristian de Jesus Zul Nuñez 
+					Alejandro Reyes Cerecero <br> 
 				</p>
 			</div>
 		</footer>
