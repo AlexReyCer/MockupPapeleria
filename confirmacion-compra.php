@@ -194,10 +194,7 @@ div#tabla{
 			<div id="team">
 				<p>Papeleria La Ideal, Ubicada entre Ocampo y Gonzales Treviño</p>
 				<p>
-					Yadira Amairany Escobedo Soriano <br>
-					Valeria Berenice Navarro Guevara <br>
-					Alejandro Reyes Cerecero <br>
-					Cristian de Jesus Zul Nuñez 
+					Alejandro Reyes Cerecero <br> 
 				</p>
 			</div>
 		</footer>

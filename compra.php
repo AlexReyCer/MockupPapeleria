@@ -148,10 +148,7 @@ div.boton > input:hover{
 			<div id="team">
 				<p>Papeleria La Ideal, Ubicada entre Ocampo y Gonzales Treviño</p>
 				<p>
-					Yadira Amairany Escobedo Soriano <br>
-					Valeria Berenice Navarro Guevara <br>
 					Alejandro Reyes Cerecero <br>
-					Cristian de Jesus Zul Nuñez 
 				</p>
 			</div>
 		</footer>
